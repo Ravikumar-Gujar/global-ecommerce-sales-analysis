@@ -48,5 +48,6 @@ This project was completed as part of my Data Analytics Internship. The objectiv
 
 
 ## Business Insights
+The Global E-Commerce business demonstrates strong financial performance, generating 12.64 Million in sales and 1.47 Million in profit. The APAC market and Technology category emerged as major growth drivers, while discount optimization and improvements in low-performing regions present opportunities for future growth.
+The combination of Excel for data preparation, SQL for analysis, and Power BI for visualization enabled meaningful insights that support data-driven business decision-making.
 
-The analysis identified APAC as the leading market, Technology as the top-performing category, and highlighted opportunities to optimize discount strategies and improve performance in underperforming regions.
